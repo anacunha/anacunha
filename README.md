@@ -4,9 +4,9 @@ I am Ana, a **Developer Advocate** at [Amazon Web Services](https://aws.amazon.c
 
 - 👾 Pronouns: she/her
 - 💬 Ask me about:
-    - Beers 🍺
-    - Video games 🎮
-    - Taylor Swift ✨
+    - [Beers](https://untappd.com/user/anacunha) 🍺
+    - [Video games](https://psnprofiles.com/cunhaana) 🎮
+    - [Taylor Swift](https://www.last.fm/user/anamcunha) 🎵
 - 🌎 Website: [https://anacunha.dev/](https://anacunha.dev/)
 - 📫 How to reach me:
     - [Twitter](https://twitter.com/mcunhaana)
