@@ -11,7 +11,6 @@ I am Ana, a **Developer Advocate** at [Amazon Web Services](https://aws.amazon.c
 - 📫 How to reach me:
     - [Twitter](https://twitter.com/mcunhaana)
     - [LinkedIn](https://linkedin.com/in/analuizacunha/)
-    - `anacunha` at `amazon.com`
 
 <!--
 **anacunha/anacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
